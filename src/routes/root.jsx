@@ -5,7 +5,6 @@ export default function Root() {
         <>
             <div id="sidebar">
                 <div>
-
                     <h1>Text Highlighter</h1>
                 </div>
                 <nav>
